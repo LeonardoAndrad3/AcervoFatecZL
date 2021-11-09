@@ -12,6 +12,9 @@ Abaixo estão as tecnologias utilizadas na criação deste projeto:
 * PostgreSQL
 * Heroku
 
+## Acesse o projeto
+* https://acervofatec-etec.herokuapp.com/
+
 ## Resultado Final
 
 
