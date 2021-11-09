@@ -27,7 +27,7 @@ Abaixo estão as tecnologias utilizadas na criação deste projeto:
 
 * **Giovanna Rocha**
 * **Leonardo Andrade**
-* **Mateus Santana**
+* **Mateus Santana** (santanasilva1778@gmail.com)
 * **Renan Rocha**
 
 Foi um prazer e obrigado pela atenção!
