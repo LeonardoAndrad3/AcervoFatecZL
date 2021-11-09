@@ -9,7 +9,10 @@ Abaixo estão as tecnologias utilizadas na criação deste projeto:
 * CSS
 * JavaScript
 * PHP
-* PostgreSQL
+* MySQL
+* Ajax
+* Bootstrap
+* Datatables API (https://datatables.net/reference/api/)
 * Heroku
 
 ## Acesse o projeto
