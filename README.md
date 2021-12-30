@@ -29,7 +29,7 @@ Abaixo estão as tecnologias utilizadas na criação deste projeto:
 ## Autores
 
 * **Giovanna Rocha**
-* **Leonardo Andrade**
+* **Leonardo Andrade** (leoanrdoxcontato@gmail.com)
 * **Mateus Santana** (santanasilva1778@gmail.com)
 * **Renan Rocha**
 
